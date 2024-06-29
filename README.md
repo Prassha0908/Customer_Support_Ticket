@@ -1,5 +1,9 @@
+<div align="center">
+
 🎇 CUSTOMER SUPPORT TICKET CATEGORIZATION AND PRIORITIZATION USING NLP 🎇
+  
 "AI revolutionizes customer support: streamlining ticket management."
+</div>
 
 ## Table of Contents 📜
 1. About the Project
@@ -38,11 +42,12 @@ Begin your journey of automating ticket categorization and prioritization with o
 This project is a testament to the spirit of collaboration and innovation. We express our heartfelt gratitude to everyone who has contributed their time, expertise, and passion to bring the Customer Support Ticket Categorization and Prioritization project to life.
 
 **The Visionaries Behind the Project**
-- **PRASSHANTHINI R** - Email for details
-- **JYOTHI SHRI S** - Email for details
-- **SANJAY R** - Email for details
 
-**Mentor:** Dr.C.S.KANIMOZLI SELVI - Email for details
+  - **PRASSHANTHINI R** -  [Email for details](mailto:prasshanthinir.21aid@kongu.edu)
+  - **JYOTHI SHRI S** - [Email for details](mailto:jyothishris.21aid@kongu.edu)
+  - **SANJAY R** - [Email for details](mailto:sanjayr.21aid@kongu.edu)
+    
+    - **Mentor : Kanimozhi Selvi C S** - [Email for details](mailto:kanimozhi.cse@kongu.edu)
 
 **Get Involved!**
 - **Suggest Features:** Got an idea? Share it with us here!
